@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "861019947886",
+    "project_id": "pcxd-20d74",
+    "storage_bucket": "pcxd-20d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861019947886:android:71112cb9bc2532bf6fb77f",
+        "android_client_info": {
+          "package_name": "com.interestelar.pcxd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861019947886-lune0n5foloqqgt2843h5go8hu6rsl1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.interestelar.pcxd",
+            "certificate_hash": "126fdb2758307c2d81c9e510a98a3e0f4cc793b5"
+          }
+        },
+        {
+          "client_id": "861019947886-ifn0it2d4pd9fsh9f7feck5a1kep8tlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXWxvTqU-h8siAG4RJXN5Cf53Yw9pybeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861019947886-ifn0it2d4pd9fsh9f7feck5a1kep8tlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
